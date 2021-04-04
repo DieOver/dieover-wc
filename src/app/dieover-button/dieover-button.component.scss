@@ -1,0 +1,7 @@
+:host {
+  --btn-color: red;
+}
+
+button {
+  color: var(--btn-color);
+}
